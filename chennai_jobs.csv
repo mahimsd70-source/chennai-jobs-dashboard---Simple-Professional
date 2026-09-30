@@ -1,0 +1,301 @@
+id,title,company,area,salary_inr
+1,Power BI Developer,Zoho,Sholinganallur,48881
+2,SQL Developer,Zoho,Anna Nagar,53189
+3,Power BI Developer,Cognizant,Guindy,63925
+4,Power BI Developer,Wipro,Porur,50708
+5,Python Developer,Freshworks,Guindy,65365
+6,Business Analyst,Cognizant,Velachery,60342
+7,Data Analyst,Infosys,Velachery,63164
+8,Power BI Developer,Wipro,Porur,44761
+9,Business Analyst,TCS,T Nagar,65675
+10,Data Scientist,Zoho,Sholinganallur,75752
+11,Data Scientist,TCS,Velachery,87066
+12,Business Analyst,Infosys,Guindy,64701
+13,Data Analyst,Freshworks,Anna Nagar,62791
+14,SQL Developer,Wipro,OMR,38989
+15,Power BI Developer,Wipro,Porur,65661
+16,Business Analyst,Infosys,Velachery,57955
+17,Business Analyst,Freshworks,Porur,43216
+18,Business Analyst,Freshworks,OMR,54561
+19,Business Analyst,Infosys,Sholinganallur,54909
+20,Data Scientist,Infosys,OMR,74167
+21,Power BI Developer,Cognizant,Sholinganallur,44900
+22,Data Scientist,TCS,OMR,97215
+23,Data Analyst,Zoho,T Nagar,48230
+24,Data Analyst,Zoho,T Nagar,61116
+25,Data Analyst,Infosys,OMR,61984
+26,Power BI Developer,TCS,Velachery,61736
+27,Python Developer,Wipro,Anna Nagar,67542
+28,SQL Developer,Freshworks,Porur,42303
+29,SQL Developer,Wipro,T Nagar,30000
+30,Data Analyst,Cognizant,Guindy,65694
+31,Business Analyst,Infosys,Guindy,98722
+32,Power BI Developer,Cognizant,T Nagar,50796
+33,Data Analyst,Wipro,Anna Nagar,55917
+34,Data Scientist,Zoho,Anna Nagar,70124
+35,Power BI Developer,Zoho,Porur,61357
+36,Power BI Developer,Infosys,Guindy,66080
+37,Data Scientist,Freshworks,Velachery,83896
+38,Power BI Developer,Freshworks,Velachery,56838
+39,Business Analyst,Freshworks,OMR,61559
+40,Business Analyst,TCS,OMR,72507
+41,Data Analyst,Wipro,T Nagar,41506
+42,Data Analyst,Wipro,Anna Nagar,44809
+43,Data Analyst,Zoho,Porur,51572
+44,Data Analyst,Freshworks,OMR,46977
+45,Business Analyst,TCS,Anna Nagar,64814
+46,Data Analyst,TCS,T Nagar,38264
+47,Data Analyst,Cognizant,OMR,54356
+48,Data Analyst,Zoho,Porur,58449
+49,Python Developer,Wipro,Sholinganallur,45012
+50,Power BI Developer,Zoho,T Nagar,74803
+51,Data Analyst,Freshworks,Guindy,46981
+52,Business Analyst,Wipro,T Nagar,78840
+53,Data Analyst,Cognizant,T Nagar,55280
+54,Power BI Developer,Freshworks,T Nagar,48029
+55,Power BI Developer,Zoho,Velachery,60091
+56,Power BI Developer,TCS,OMR,56344
+57,Python Developer,TCS,OMR,74819
+58,Python Developer,Wipro,Guindy,79264
+59,SQL Developer,TCS,Velachery,43743
+60,Power BI Developer,TCS,Guindy,54775
+61,Data Analyst,TCS,OMR,57598
+62,SQL Developer,Zoho,T Nagar,57818
+63,Power BI Developer,Freshworks,T Nagar,62504
+64,Data Analyst,Freshworks,Porur,58464
+65,Power BI Developer,TCS,T Nagar,41501
+66,Data Analyst,Cognizant,Guindy,66686
+67,Business Analyst,Cognizant,OMR,83657
+68,Power BI Developer,TCS,Velachery,64738
+69,Data Analyst,Zoho,OMR,41699
+70,Data Analyst,Freshworks,T Nagar,54747
+71,SQL Developer,Wipro,Porur,36814
+72,Business Analyst,Cognizant,T Nagar,72203
+73,Business Analyst,Cognizant,Porur,63591
+74,Data Analyst,Freshworks,Sholinganallur,63721
+75,Data Analyst,Zoho,Velachery,61256
+76,SQL Developer,TCS,OMR,41428
+77,Power BI Developer,TCS,Anna Nagar,57765
+78,Data Scientist,TCS,Porur,97140
+79,Data Scientist,Freshworks,Sholinganallur,93363
+80,Data Scientist,Cognizant,Sholinganallur,90506
+81,Data Analyst,TCS,Guindy,45739
+82,Business Analyst,Infosys,T Nagar,59870
+83,Business Analyst,Wipro,Sholinganallur,67309
+84,Python Developer,Zoho,Guindy,61910
+85,Python Developer,TCS,T Nagar,78828
+86,Business Analyst,Cognizant,Guindy,60506
+87,Python Developer,Cognizant,Velachery,73044
+88,Python Developer,TCS,Velachery,72572
+89,Data Scientist,Zoho,Sholinganallur,84440
+90,Power BI Developer,Infosys,Guindy,58722
+91,Business Analyst,Wipro,Anna Nagar,55865
+92,Business Analyst,Infosys,Guindy,60449
+93,Business Analyst,Cognizant,OMR,68544
+94,Data Scientist,Freshworks,Velachery,71196
+95,Power BI Developer,Cognizant,Velachery,52696
+96,Business Analyst,Zoho,Sholinganallur,67164
+97,Power BI Developer,Infosys,Sholinganallur,46920
+98,Python Developer,Cognizant,Guindy,50094
+99,Data Scientist,Freshworks,Anna Nagar,88642
+100,Data Analyst,Infosys,Guindy,47064
+101,Data Analyst,Wipro,OMR,39511
+102,Data Scientist,Cognizant,OMR,86568
+103,Data Scientist,Wipro,Anna Nagar,93772
+104,SQL Developer,Freshworks,Guindy,66513
+105,SQL Developer,Infosys,Guindy,47626
+106,Data Scientist,Freshworks,OMR,108720
+107,Business Analyst,Infosys,Porur,45050
+108,Data Scientist,Freshworks,Guindy,76998
+109,Power BI Developer,Infosys,OMR,74412
+110,Data Scientist,Cognizant,Velachery,75641
+111,Python Developer,Zoho,Velachery,70698
+112,Power BI Developer,Infosys,T Nagar,56146
+113,Power BI Developer,Zoho,Anna Nagar,62269
+114,Power BI Developer,Zoho,OMR,57290
+115,Data Analyst,Cognizant,Anna Nagar,43550
+116,Power BI Developer,Wipro,Guindy,65913
+117,Data Scientist,TCS,Guindy,92809
+118,Data Scientist,Infosys,Guindy,83773
+119,Python Developer,Freshworks,Guindy,57617
+120,Data Scientist,Infosys,Anna Nagar,81753
+121,SQL Developer,Cognizant,Anna Nagar,53620
+122,Data Analyst,Freshworks,Guindy,60813
+123,Data Scientist,TCS,T Nagar,97472
+124,Power BI Developer,Infosys,OMR,66103
+125,Business Analyst,Cognizant,Sholinganallur,49659
+126,Data Analyst,Zoho,OMR,58630
+127,Business Analyst,TCS,Porur,65121
+128,Data Scientist,Zoho,T Nagar,99309
+129,Data Analyst,Freshworks,Porur,50887
+130,Power BI Developer,Zoho,Guindy,69840
+131,Data Scientist,Freshworks,T Nagar,92019
+132,Data Scientist,Freshworks,Anna Nagar,81952
+133,Data Analyst,Freshworks,OMR,73136
+134,Python Developer,Infosys,Velachery,74045
+135,Data Analyst,Infosys,T Nagar,50666
+136,Python Developer,Infosys,Anna Nagar,72038
+137,Data Scientist,Freshworks,OMR,75519
+138,Data Analyst,Cognizant,Velachery,40925
+139,Power BI Developer,Cognizant,Velachery,52815
+140,Business Analyst,Zoho,Guindy,62865
+141,Python Developer,Cognizant,Anna Nagar,62756
+142,Python Developer,Freshworks,Porur,51242
+143,Python Developer,TCS,Sholinganallur,78519
+144,Data Analyst,Zoho,Anna Nagar,62683
+145,Power BI Developer,TCS,OMR,58912
+146,Data Analyst,Wipro,Anna Nagar,59017
+147,Business Analyst,Wipro,Anna Nagar,46032
+148,SQL Developer,Freshworks,Anna Nagar,55990
+149,Power BI Developer,Infosys,Sholinganallur,64736
+150,Data Analyst,TCS,Porur,55543
+151,Data Analyst,TCS,T Nagar,67004
+152,Power BI Developer,Infosys,Porur,78160
+153,Power BI Developer,Infosys,Velachery,56918
+154,Power BI Developer,Infosys,Guindy,52625
+155,Power BI Developer,TCS,Velachery,52408
+156,SQL Developer,Wipro,Sholinganallur,51503
+157,Data Analyst,Cognizant,Velachery,48546
+158,Data Scientist,Cognizant,Porur,73993
+159,SQL Developer,Infosys,Guindy,57419
+160,Business Analyst,Infosys,T Nagar,79766
+161,Data Scientist,Wipro,OMR,86902
+162,Python Developer,TCS,T Nagar,58301
+163,Data Scientist,Zoho,T Nagar,83842
+164,Data Analyst,Cognizant,OMR,69361
+165,Python Developer,Cognizant,Porur,73424
+166,SQL Developer,Cognizant,Sholinganallur,69115
+167,Data Scientist,Zoho,OMR,99241
+168,Data Scientist,Wipro,OMR,98128
+169,Business Analyst,Freshworks,Porur,56514
+170,Data Analyst,TCS,Guindy,45637
+171,Power BI Developer,Zoho,T Nagar,30000
+172,Python Developer,Freshworks,OMR,67317
+173,Business Analyst,Cognizant,Anna Nagar,69137
+174,Business Analyst,Infosys,T Nagar,78420
+175,SQL Developer,Infosys,Porur,52334
+176,Python Developer,Infosys,Guindy,78026
+177,Business Analyst,Infosys,Velachery,56314
+178,Data Analyst,Wipro,OMR,56164
+179,Power BI Developer,TCS,Anna Nagar,62200
+180,Data Scientist,Freshworks,Guindy,71161
+181,Data Analyst,Cognizant,Guindy,37966
+182,Business Analyst,Cognizant,Guindy,64444
+183,Data Scientist,Zoho,T Nagar,93755
+184,Data Analyst,Zoho,Porur,41284
+185,Power BI Developer,Zoho,T Nagar,54861
+186,SQL Developer,Cognizant,Guindy,39407
+187,Data Scientist,Cognizant,Porur,84697
+188,Data Scientist,Wipro,OMR,82071
+189,Data Scientist,Infosys,OMR,75659
+190,Business Analyst,Infosys,Anna Nagar,63084
+191,SQL Developer,Wipro,T Nagar,43002
+192,Data Scientist,TCS,Guindy,92139
+193,Power BI Developer,Cognizant,Velachery,66141
+194,Business Analyst,Wipro,Guindy,72575
+195,Power BI Developer,Cognizant,Guindy,53734
+196,Business Analyst,Zoho,T Nagar,43078
+197,SQL Developer,Freshworks,Anna Nagar,50286
+198,Python Developer,Infosys,Porur,79686
+199,SQL Developer,Cognizant,Velachery,41287
+200,Python Developer,TCS,OMR,67732
+201,Business Analyst,TCS,Anna Nagar,57267
+202,Power BI Developer,TCS,Velachery,56492
+203,Python Developer,Freshworks,Sholinganallur,69920
+204,Business Analyst,Infosys,Sholinganallur,79799
+205,Data Analyst,Cognizant,Porur,34924
+206,Power BI Developer,Infosys,Guindy,70674
+207,SQL Developer,Wipro,Anna Nagar,36014
+208,Business Analyst,Wipro,Sholinganallur,70629
+209,Power BI Developer,Wipro,Porur,67974
+210,Data Analyst,Wipro,Porur,56452
+211,SQL Developer,Zoho,Guindy,55663
+212,SQL Developer,Cognizant,Velachery,58318
+213,Data Scientist,Zoho,Velachery,84354
+214,Data Analyst,Freshworks,OMR,44979
+215,Power BI Developer,Wipro,Anna Nagar,62597
+216,Business Analyst,Zoho,Sholinganallur,55956
+217,Power BI Developer,Wipro,Guindy,68819
+218,Python Developer,Cognizant,Sholinganallur,53151
+219,Python Developer,Cognizant,OMR,63980
+220,Data Analyst,TCS,T Nagar,62602
+221,Business Analyst,TCS,Anna Nagar,47297
+222,Business Analyst,Freshworks,Velachery,54673
+223,Python Developer,TCS,Guindy,73711
+224,Power BI Developer,Zoho,T Nagar,53960
+225,Data Analyst,Cognizant,T Nagar,59880
+226,Data Analyst,Cognizant,Porur,70801
+227,Power BI Developer,Cognizant,T Nagar,56815
+228,SQL Developer,Wipro,Guindy,46809
+229,Business Analyst,TCS,Guindy,73711
+230,Business Analyst,Zoho,Anna Nagar,61739
+231,Business Analyst,TCS,OMR,41736
+232,Data Analyst,TCS,Sholinganallur,70108
+233,Python Developer,Zoho,Sholinganallur,78924
+234,SQL Developer,Wipro,Porur,50956
+235,SQL Developer,Freshworks,Sholinganallur,35214
+236,Data Scientist,TCS,Velachery,101437
+237,Business Analyst,Wipro,OMR,66818
+238,Data Analyst,Cognizant,Anna Nagar,57482
+239,SQL Developer,Zoho,Guindy,65097
+240,Data Analyst,Wipro,Porur,59020
+241,Data Scientist,Cognizant,Anna Nagar,87301
+242,Data Scientist,Freshworks,Velachery,80212
+243,Data Scientist,Zoho,Velachery,98696
+244,Power BI Developer,Infosys,T Nagar,73556
+245,SQL Developer,Infosys,Porur,39416
+246,Business Analyst,Infosys,Porur,59870
+247,SQL Developer,Wipro,Guindy,52799
+248,Data Analyst,TCS,Sholinganallur,43745
+249,Power BI Developer,Freshworks,Anna Nagar,51244
+250,Data Scientist,Infosys,OMR,92046
+251,Power BI Developer,Zoho,Anna Nagar,53701
+252,Business Analyst,TCS,Porur,63165
+253,SQL Developer,Cognizant,Guindy,40103
+254,Business Analyst,Freshworks,Porur,63742
+255,Data Analyst,Zoho,Sholinganallur,42650
+256,Data Scientist,TCS,Anna Nagar,79006
+257,Data Analyst,Infosys,OMR,61162
+258,SQL Developer,Freshworks,OMR,43695
+259,Python Developer,Infosys,T Nagar,67701
+260,Python Developer,Zoho,OMR,76281
+261,SQL Developer,Freshworks,Porur,54716
+262,Data Scientist,TCS,OMR,74702
+263,Data Scientist,Freshworks,Guindy,108489
+264,Data Scientist,TCS,Sholinganallur,101265
+265,Data Analyst,Cognizant,OMR,47008
+266,Data Analyst,Cognizant,Porur,53354
+267,SQL Developer,Wipro,Anna Nagar,51980
+268,Data Analyst,Cognizant,Anna Nagar,53556
+269,Business Analyst,TCS,Porur,68031
+270,SQL Developer,Infosys,Guindy,61665
+271,Business Analyst,Wipro,T Nagar,44216
+272,Power BI Developer,TCS,Anna Nagar,47593
+273,SQL Developer,Wipro,Guindy,35924
+274,Power BI Developer,TCS,Sholinganallur,52221
+275,Power BI Developer,Zoho,Sholinganallur,72222
+276,SQL Developer,Cognizant,Porur,30000
+277,Data Analyst,TCS,Velachery,49754
+278,Python Developer,Zoho,Porur,74893
+279,Business Analyst,Cognizant,Porur,61390
+280,Data Scientist,Wipro,Sholinganallur,101593
+281,Python Developer,Freshworks,Guindy,73261
+282,Python Developer,TCS,Sholinganallur,57488
+283,Data Scientist,Infosys,T Nagar,77584
+284,Power BI Developer,Freshworks,Anna Nagar,51836
+285,Data Scientist,Infosys,Anna Nagar,102466
+286,Power BI Developer,Zoho,Velachery,38301
+287,Python Developer,Infosys,Porur,64550
+288,SQL Developer,Wipro,Sholinganallur,53991
+289,Data Analyst,TCS,Guindy,77784
+290,Data Scientist,TCS,Sholinganallur,62159
+291,Data Analyst,Freshworks,Guindy,56708
+292,Python Developer,Cognizant,Anna Nagar,68160
+293,Python Developer,TCS,Anna Nagar,53704
+294,Data Analyst,Wipro,Guindy,60518
+295,Power BI Developer,Freshworks,Anna Nagar,62560
+296,Data Analyst,Cognizant,Sholinganallur,64826
+297,Python Developer,Freshworks,Porur,68418
+298,Python Developer,Wipro,Guindy,78065
+299,Power BI Developer,Cognizant,Anna Nagar,61472
+300,SQL Developer,Zoho,Velachery,47774
